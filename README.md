@@ -1,1 +1,1 @@
-This is general repository
+This is a general repository
