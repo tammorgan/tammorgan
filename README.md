@@ -1,4 +1,4 @@
-![Image of Griffith Park Observatory](Griffith Observatory.jpg)
+![Image of Griffith Park Observatory](Griffith_Observatory.jpg)
 
 # GRIFFITH PARK OBSERVATORY
 
